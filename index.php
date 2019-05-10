@@ -4,5 +4,6 @@
     echo "Dit is de derde commit";
     echo "Dit is de vijfde commit";
     echo "Dit is de zevende commit";
+    echo "Dit is de achtende commit";
 
 ?>
