@@ -8,6 +8,8 @@
     echo "Dit is de negende commit";
     echo "Dit is de tiende commit";
     echo "Dit is de elfende commit";
+    echo "Dit is de twaalfde commit";
 
 
-?>
+
+?>  
