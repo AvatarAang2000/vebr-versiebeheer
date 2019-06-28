@@ -27,8 +27,8 @@
         <tr>
           <th scope="row">322573</th>
           <td>Olivier</td>
-          <td></td>
-          <td></td>
+          <td>...</td>
+          <td>Giskes</td>
           <td></td>
           <td></td>
         </tr>
