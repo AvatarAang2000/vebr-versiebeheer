@@ -37,7 +37,7 @@
                     <td>ogiskes</td>
                     <td><img src="../img/Avatar_Aang.jpg" height="35px" width="35px"></td>
                     <td><a href="./homepages/Olivier_ogiskes.php">Webdevelopment</td>
-                    <td></td>
+                    <td>7</td>
                  </tr>
             </tbody>
         </table>
