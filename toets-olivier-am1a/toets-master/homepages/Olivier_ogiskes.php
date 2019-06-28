@@ -29,8 +29,8 @@
           <td>Olivier</td>
           <td>...</td>
           <td>Giskes</td>
-          <td></td>
-          <td></td>
+          <td>Webdemplot</td>
+          <td> </td>
         </tr>
       </tbody>
     </table>
