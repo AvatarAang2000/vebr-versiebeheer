@@ -30,7 +30,7 @@
           <td>...</td>
           <td>Giskes</td>
           <td>Webdemplot</td>
-          <td> </td>
+          <td><img src="../img/Avatar_Aang.jpg" height="35px" width="35px"></td>
         </tr>
       </tbody>
     </table>
