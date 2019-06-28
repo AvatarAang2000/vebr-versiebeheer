@@ -31,6 +31,14 @@
                     <td><a href="./homepages/arjan_rra-am1c-2018.php">mijn homepage</a></td>
                     <td>10+</td>
                 </tr>
+                <tr>
+                    <th scope="row">322573</th>
+                    <td>Olivier</td>
+                    <td></td>
+                    <td>Giskes</td>
+                    <td>Webdevelopment</td>
+                    <td><img src="../img/Avatar_Aang.jpg" height="35px" width="35px"></td>
+                 </tr>
             </tbody>
         </table>
       </div>
