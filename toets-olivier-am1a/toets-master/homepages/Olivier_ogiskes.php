@@ -12,27 +12,27 @@
   </head>
   <body>
       <!-- Table -->
-  <table class="table table-hover table-light">
-      <thead class=thead-dark>
-        <tr>
-          <th scope="col">Leerling nummer</th>
-          <th scope="col">Voornaam</th>
-          <th scope="col">Tussenvoegsel</th>
-          <th scope="col">Achternaam</th>
-          <th scope="col">Afstudeer richting</th>
-          <th scope="col">Avatar</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <th scope="row">322573</th>
-          <td>Olivier</td>
-          <td>...</td>
-          <td>Giskes</td>
-          <td>Webdemplot</td>
-          <td><img src="../img/Avatar_Aang.jpg" height="35px" width="35px"></td>
-        </tr>
-      </tbody>
+    <table class="table table-hover table-light">
+        <thead class=thead-dark>
+            <tr>
+            <th scope="col">Leerling nummer</th>
+            <th scope="col">Voornaam</th>
+            <th scope="col">Tussenvoegsel</th>
+            <th scope="col">Achternaam</th>
+            <th scope="col">Afstudeer richting</th>
+            <th scope="col">Avatar</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+            <th scope="row">322573</th>
+            <td>Olivier</td>
+            <td>...</td>
+            <td>Giskes</td>
+            <td>Webdemplot</td>
+            <td><img src="../img/Avatar_Aang.jpg" height="35px" width="35px"></td>
+            </tr>
+        </tbody>
     </table>
     <a class="btn btn-outline-dark btn-lg btn-block" href="../index.php" role="button">Ga terug!</a>
     <!-- Optional JavaScript -->
