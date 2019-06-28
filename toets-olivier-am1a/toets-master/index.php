@@ -36,8 +36,8 @@
                     <td>Olivier</td>
                     <td></td>
                     <td>Giskes</td>
-                    <td>Webdevelopment</td>
-                    <td><img src="../img/Avatar_Aang.jpg" height="35px" width="35px"></td>
+                    <td><a href="./homepages/Olivier_ogiskes.php">Webdevelopment</td>
+                    <td></td>
                  </tr>
             </tbody>
         </table>
